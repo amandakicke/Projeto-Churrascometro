@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://p1.pxfuel.com/preview/101/924/965/barbecue-fire-flame-fireplace-meat.jpg);
+    background-position: 100%;
+}
+
+
+.container{
+    max-width: 300px;
+    margin-top: 20px;
+    margin: auto;
+    background-color: rgb(212, 151, 17);
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin-top: 0;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
